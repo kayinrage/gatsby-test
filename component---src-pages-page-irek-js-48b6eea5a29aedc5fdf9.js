@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[5],{208:function(e,a,t){"use strict";t.r(a);var n=t(0),l=t.n(n),o=t(101),c=t(205),r=t(204);a.default=function(){return l.a.createElement(c.a,null,l.a.createElement(r.a,{title:"Page two"}),l.a.createElement("h1",null,"Irek is awesome"),l.a.createElement("p",null,"Welcome Irek is awesome page"),l.a.createElement(o.a,{to:"/"},"Go back to the homepage"))}}}]);
+//# sourceMappingURL=component---src-pages-page-irek-js-48b6eea5a29aedc5fdf9.js.map
